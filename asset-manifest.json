@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wendler-531-tracker/static/css/main.e6c13ad2.css",
-    "main.js": "/wendler-531-tracker/static/js/main.e2541188.js",
+    "main.js": "/wendler-531-tracker/static/js/main.6283efb7.js",
     "static/js/453.3eb4d072.chunk.js": "/wendler-531-tracker/static/js/453.3eb4d072.chunk.js",
     "index.html": "/wendler-531-tracker/index.html",
     "main.e6c13ad2.css.map": "/wendler-531-tracker/static/css/main.e6c13ad2.css.map",
-    "main.e2541188.js.map": "/wendler-531-tracker/static/js/main.e2541188.js.map",
+    "main.6283efb7.js.map": "/wendler-531-tracker/static/js/main.6283efb7.js.map",
     "453.3eb4d072.chunk.js.map": "/wendler-531-tracker/static/js/453.3eb4d072.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e2541188.js"
+    "static/js/main.6283efb7.js"
   ]
 }
